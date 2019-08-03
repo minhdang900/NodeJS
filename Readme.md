@@ -5,6 +5,8 @@
 # Setup ESLint
       npm i -D eslint
       ./node_modules/.bin/eslint --init
- # Setup Webpack
+# Setup Webpack
       npm i webpack -D
       npm i babel-core babel-loader babel-preset-es2015 -D
+# Winston
+# Bcrypt
